@@ -1,3 +1,3 @@
 print "hello, world"
-print "fish can't walk"
+print "Fish can't walk"
 print 'Mommy loves "me"'
